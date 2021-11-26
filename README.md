@@ -1,6 +1,6 @@
 # Necessities for my arch linux setup.
 
-## Other Tools Not Included (All Mine or are forked)
+## Other Tools Not Included
 
 #### environment/terminal programs
 * pywal[Colorscheme-Gen]: https://github.com/dylanaraps/pywal | AUR: pywal-git
