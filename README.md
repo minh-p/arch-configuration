@@ -10,7 +10,7 @@
 * dwmblocks[WM-StatusBar-Writer]: https://github.com/minh-p/dwmblocks
 * tabbed[Tabbing]: https://github.com/minh-p/tabbed
 * dmenu[Launcher]: https://github.com/minh-p/mydmenu
-* [My-Wallpapers]: https://github.com/minh-p/My-Wallpapers
+* My-Wallpapers: https://github.com/minh-p/My-Wallpapers
 * nitrogen[wallpapering]: sudo pacman -S nitrogen
 
 
