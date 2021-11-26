@@ -15,6 +15,7 @@
 * dmenu[Launcher]: https://github.com/minh-p/mydmenu
 * My-Wallpapers: https://github.com/minh-p/My-Wallpapers
 * nitrogen[wallpapering]: sudo pacman -S nitrogen
+* picom[compositor]: sudo pacman -S picom
 
 
 #### internet
@@ -32,7 +33,7 @@
 
 
 #### music player/audio
-* [spotify-adblock]: https://github.com/abba23/spotify-adblock
+* spotify-adblock: https://github.com/abba23/spotify-adblock
 * Spotify (with spotify-adblock), cava, pacmixer
 - I use pipewire
 
