@@ -1,6 +1,6 @@
 # Necessities for my arch linux setup.
 
-11/26/2021
+11/26/2021 scuffed image cause my screenshotter xd
 ![Screenie](https://github.com/minh-p/arch-configuration/blob/main/Pictures/Screen%20Shots/screenie.png?raw=true)
 
 ## Other Tools Not Included
